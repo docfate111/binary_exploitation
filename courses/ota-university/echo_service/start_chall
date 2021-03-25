@@ -1,0 +1,1 @@
+socat tcp-l:10001,reuseaddr,fork EXEC:./echo_service
